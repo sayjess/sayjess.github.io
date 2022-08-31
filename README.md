@@ -1,1 +1,1 @@
-This is a startup landing page. Enter your email address to subscribe.
+A startup landing page created using Mailchimp.
